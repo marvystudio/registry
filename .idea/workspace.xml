@@ -25,12 +25,23 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="Docker" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ServiceRegistryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="service-registry" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.marvyco.serviceregistry.ServiceRegistryApplication" />
@@ -53,6 +64,7 @@
       <workItem from="1612147209685" duration="1740000" />
       <workItem from="1612235203545" duration="1613000" />
       <workItem from="1612320650971" duration="1355000" />
+      <workItem from="1612342109847" duration="106000" />
     </task>
     <servers />
   </component>
